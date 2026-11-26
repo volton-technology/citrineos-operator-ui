@@ -9,7 +9,7 @@ on:
 
 jobs:
   reuse-check:
-    runs-on: ubuntu-latest
+    runs-on: volton-arc-production
 
     steps:
       - name: Checkout repository
